@@ -45,11 +45,10 @@ const garima = {
                   "Google Project Management",
                   "Google Cloud Computing Foundations",
                 ],
-  status:       "Open to Internships & Job Opportunities 🚀",
-};
+  status:       "Open to Internships & Job Opportunities 🚀",};
 ```
 
-I'm a **final year B.Tech Computer Science** undergraduate specialising in **Cyber Security** at JECRC University, Jaipur. I have hands-on experience in cybersecurity tools, threat analysis, and secure system development. Certified by **EC-Council** and **Google**. Passionate about building systems that actively **defend** — not just monitor.
+I'm a **final year B.Tech Computer Science** undergraduate specialising in **Cyber Security** at JECRC University, Jaipur. I have hands-on experience in cybersecurity tools, threat analysis, and secure system development. Certified by **EC-Council** and **Google**. Passionate about building systems that actively **defend**  not just monitor.
 
 ---
 

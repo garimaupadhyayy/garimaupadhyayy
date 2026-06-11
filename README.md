@@ -225,15 +225,35 @@ Task-based cybersecurity projects completed during the ShadowFox internship — 
 **Feb 2026 – Mar 2026**
 
 ```
-  ✓ Performed vulnerability assessment & network traffic analysis using Wireshark
-  ✓ Analyzed exposed services & monitored suspicious traffic patterns in real time
-  ✓ Identified potential security weaknesses across target systems
-  ✓ Worked with Metasploit in a controlled lab — pen testing & exploit simulation
-  ✓ Documented findings in structured internship reports with remediation notes
-  ✓ Completed task-based cybersecurity challenges across multiple security domains
+  ✓ Performed end-to-end security assessment activities including port scanning,
+    service enumeration, directory discovery, and vulnerability identification on
+    web applications using Nmap and Gobuster.
+
+  ✓ Conducted network traffic monitoring and packet analysis with Wireshark to
+    capture, inspect, and analyze HTTP communications — demonstrating credential
+    interception and protocol-level security assessment.
+
+  ✓ Applied password recovery and cryptographic analysis techniques using HashID
+    and Hashcat to identify hash algorithms, crack encrypted credentials, and
+    access protected VeraCrypt volumes.
+
+  ✓ Analyzed Windows executable files using PE Explorer to examine PE structures,
+    identify entry points, and understand fundamental reverse engineering concepts.
+
+  ✓ Developed and deployed reverse shell payloads using MSFVenom and Metasploit
+    Framework, establishing controlled remote access sessions within a virtualized
+    lab environment.
+
+  ✓ Utilized Kali Linux, VMware Workstation, Python HTTP Server, and Windows VMs
+    to create and manage realistic cybersecurity testing environments for offensive
+    security exercises.
+
+  ✓ Successfully completed a full penetration testing workflow on TryHackMe Basic
+    Pentesting lab — covering reconnaissance, SMB enumeration, credential attacks,
+    SSH access, lateral movement, privilege escalation, and post-exploitation.
 ```
 
-**Tools Used:** `Wireshark` `Metasploit` `Kali Linux` `Nmap` `Burp Suite`
+**Tools Used:** `Nmap` `Gobuster` `Wireshark` `Hashcat` `HashID` `PE Explorer` `MSFVenom` `Metasploit` `VeraCrypt` `Kali Linux` `VMware`
 
 [![View Internship Repo](https://img.shields.io/badge/View%20Internship%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garimaupadhyayy/ShadowFox-CyberSecurity-Internship)
 

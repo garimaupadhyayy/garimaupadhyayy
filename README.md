@@ -1,33 +1,43 @@
-<!-- GARIMA UPADHYAY — GitHub Profile README -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=Hi,%20I%20am%20Garima%20Upadhyay.&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Secure%20Systems%20%7C%20AI%20%26%20Defense&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0a0a,50:003300,100:00ff41&height=220&section=header&text=Hi,%20I%20am%20Garima%20Upadhyay.&fontSize=42&fontColor=ffffff&fontAlignY=55&fontAlign=50&desc=Cybersecurity%20Researcher%20%7C%20Secure%20Systems%20Developer%20%7C%20EC-Council%20Certified&descAlignY=75&descSize=14&descAlign=50" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/garimaupadhyay)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garimaupadhyayy)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garima.upadhyay716@gmail.com)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/garimaupadhyay)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/garimaupadhyayy)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:garima.upadhyay716@gmail.com)&nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=garimaupadhyayy&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS)
+
+<br/>
 
 </div>
 
 ---
 
-## 🛡️ About Me
+<div align="center">
+
+### 🛡️ About Me
+
+</div>
 
 ```js
 const garima = {
-  role:        "Cybersecurity Enthusiast & Secure Systems Developer",
-  university:  "JECRC University, Jaipur",
-  cgpa:        7.73,
-  focus:       ["Penetration Testing", "Threat Detection", "Incident Response"],
-  interests:   ["Network Security", "AI + Security", "Cryptography", "OSINT"],
-  status:      "Open to internships and Job opportunities",
-  funFact:     "I built a real HIDS that detects brute-force in under 6.4 seconds.",
+  role:         "Cybersecurity Enthusiast & Secure Systems Developer",
+  university:   "JECRC University, Jaipur  [2023–27]",
+  year:         "Pre-Final Year",
+  cgpa:         7.73,
+  focus:        ["Penetration Testing", "Threat Detection", "Incident Response"],
+  interests:    ["Network Security", "AI + Security", "Cryptography", "OSINT"],
+  certifiedBy:  ["EC-Council (CEH, CND, ECSS, CSCU)", "Google Cybersecurity"],
+  status:       "Open to internships and Job opportunities 🚀",
+  funFact:      "I built a real HIDS that detects brute-force in under 6.4 seconds.",
 };
 ```
 
-I'm a **pre-final year Computer Science** undergraduate with hands-on experience in cybersecurity tools, threat analysis, and secure system development. Certified by **EC-Council** (CEH, CND, ECSS, CSCU) and **Google**. Passionate about building systems that actively defend — not just monitor.
+<br/>
+
+I'm a **pre-final year Computer Science** undergraduate with hands-on experience in cybersecurity tools, threat analysis, and secure system development. Certified by **EC-Council** and **Google**. Passionate about building systems that actively **defend** — not just monitor.
 
 ---
 
@@ -39,13 +49,14 @@ I'm a **pre-final year Computer Science** undergraduate with hands-on experience
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Security & Monitoring Tools**
+**Security & Monitoring**
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ---
 
@@ -81,7 +92,7 @@ Rule-based phishing detection engine using 10+ heuristic indicators. Classifies 
 
 ---
 
-## 📋 Experience
+## 💼 Experience
 
 ```
 [Feb 2026 – Mar 2026]  Cyber Security Intern @ ShadowFox  (Remote)
@@ -109,11 +120,11 @@ Rule-based phishing detection engine using 10+ heuristic indicators. Classifies 
 
 <div align="center">
 
-![Garima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garimaupadhyayy&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9)
+![Garima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garimaupadhyayy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garimaupadhyayy&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garimaupadhyayy&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=garimaupadhyayy&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
+![GitHub Streak](https://streak-stats.demolab.com?user=garimaupadhyayy&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
 
 </div>
 
@@ -134,7 +145,7 @@ Rule-based phishing detection engine using 10+ heuristic indicators. Classifies 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer" width="100%" />
 
 *"Security is not a product. It's a process."*
 

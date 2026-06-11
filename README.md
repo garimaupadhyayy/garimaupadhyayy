@@ -225,32 +225,10 @@ Task-based cybersecurity projects completed during the ShadowFox internship — 
 **Feb 2026 – Mar 2026**
 
 ```
-  ✓ Performed end-to-end security assessment activities including port scanning,
-    service enumeration, directory discovery, and vulnerability identification on
-    web applications using Nmap and Gobuster.
-
-  ✓ Conducted network traffic monitoring and packet analysis with Wireshark to
-    capture, inspect, and analyze HTTP communications — demonstrating credential
-    interception and protocol-level security assessment.
-
-  ✓ Applied password recovery and cryptographic analysis techniques using HashID
-    and Hashcat to identify hash algorithms, crack encrypted credentials, and
-    access protected VeraCrypt volumes.
-
-  ✓ Analyzed Windows executable files using PE Explorer to examine PE structures,
-    identify entry points, and understand fundamental reverse engineering concepts.
-
-  ✓ Developed and deployed reverse shell payloads using MSFVenom and Metasploit
-    Framework, establishing controlled remote access sessions within a virtualized
-    lab environment.
-
-  ✓ Utilized Kali Linux, VMware Workstation, Python HTTP Server, and Windows VMs
-    to create and manage realistic cybersecurity testing environments for offensive
-    security exercises.
-
-  ✓ Successfully completed a full penetration testing workflow on TryHackMe Basic
-    Pentesting lab — covering reconnaissance, SMB enumeration, credential attacks,
-    SSH access, lateral movement, privilege escalation, and post-exploitation.
+  ✓ Conducted end-to-end web app security assessments — port scanning, service enumeration, directory discovery, and vuln identification using Nmap and Gobuster.
+  ✓ Performed network traffic analysis with Wireshark, captured HTTP credentials, and applied HashID + Hashcat for hash cracking and VeraCrypt volume access.
+  ✓ Developed and deployed reverse shell payloads via MSFVenom and Metasploit; analyzed PE structures using PE Explorer for reverse engineering fundamentals.
+  ✓ Completed full pentest workflow on TryHackMe Basic Pentesting — recon, SMB enumeration, SSH access, privilege escalation, and post-exploitation in a VMware lab.
 ```
 
 **Tools Used:** `Nmap` `Gobuster` `Wireshark` `Hashcat` `HashID` `PE Explorer` `MSFVenom` `Metasploit` `VeraCrypt` `Kali Linux` `VMware`

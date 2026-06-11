@@ -229,16 +229,59 @@ A rule-based phishing detection system to analyze URLs and email content using *
 
 ---
 
-## 🌟 Leadership & Extras
+## 🌟 Leadership & Organizational Experience
+
+### 🏢 IAESTE India — LC JECRC
 
 ```
-→  Head of Administration  —  IAESTE LC JECRC  (2024–25)
-   ✓ Managed 200+ international internship applications end-to-end
-   ✓ Streamlined member onboarding, communication & cross-team coordination
-   ✓ Official delegate at National Conference  —  MIT Manipal
+🎯  Head of Administration Portfolio                    [Sep 2024 – Sep 2025]
+────────────────────────────────────────────────────────────────────────────
+  ✓ Led the Administration Portfolio and managed all organizational operations
+  ✓ Coordinated internship exchange processes and student guidance sessions
+  ✓ Managed 200+ international internship applications end-to-end
+  ✓ Streamlined documentation, communication & cross-team coordination
+  ✓ Worked closely with executive members for smooth event execution
+  → Skills: Leadership · Administration · Team Management · Strategic Planning
 
-→  Campus Ambassador  —  E-Cell IIT Bombay
-   ✓ Increased student engagement in startup & entrepreneurship programs
+🤝  Junior Coordinator — HR & Alumni Portfolio          [Jun 2024 – Sep 2024]
+────────────────────────────────────────────────────────────────────────────
+  ✓ Supported member onboarding and engagement activities
+  ✓ Coordinated alumni relations and networking initiatives
+  ✓ Assisted in HR operations, recruitment support & community building
+  ✓ Strengthened collaboration between active members and alumni network
+  → Skills: Human Resources · Alumni Relations · Communication · Team Coordination
+
+📋  Local Committee Member — Administration, HR & Alumni [Dec 2023 – Sep 2024]
+────────────────────────────────────────────────────────────────────────────
+  ✓ Contributed to administrative and HR activities at the committee level
+  ✓ Assisted in documentation, member management & event coordination
+  ✓ Supported portfolio operations and internal communications
+  → Skills: Organization · Documentation · Teamwork · Event Management
+```
+
+---
+
+### 🌍 National Conference Delegate — IAESTE India
+
+```
+  ✓ Represented IAESTE India LC JECRC at the National Conference — MIT Manipal
+  ✓ Selected among the 5 official delegates representing the Local Committee
+  ✓ Presented LC's achievements, initiatives & impact at the national level
+  ✓ Networked and collaborated with delegates from IAESTE committees across India
+  → Skills: Public Speaking · Leadership · Networking · Representation
+```
+
+---
+
+### 💡 Campus Ambassador — E-Cell IIT Bombay
+
+```
+[Jun 2025 – Jan 2026]
+────────────────────────────────────────────────────────────────────────────
+  ✓ Promoted entrepreneurship and startup culture across campus
+  ✓ Increased awareness of E-Cell IIT Bombay initiatives and flagship events
+  ✓ Encouraged student participation in innovation-focused programs
+  → Skills: Outreach · Entrepreneurship · Community Building · Leadership
 ```
 
 ---

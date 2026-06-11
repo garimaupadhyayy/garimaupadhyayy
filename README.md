@@ -80,7 +80,9 @@ I'm a **final year B.Tech Computer Science** undergraduate specialising in **Cyb
 ### 🖥️ Core Computer Science
 ![Data Structures](https://img.shields.io/badge/Data_Structures_%26_Algorithms-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 ![OS](https://img.shields.io/badge/Operating_Systems-Linux%20%7C%20Windows-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cryptography](https://img.shields.io/badge/Cryptography-SHA256%20%7C%20AES-6A0DAD?style=for-the-badge&logo=gnupg&logoColor=white)
+![CN](https://img.shields.io/badge/Computer_Networks-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![OOPs](https://img.shields.io/badge/OOPs-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🛠️ Tools & DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)

@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,40:0a2a4a,100:1a6b8a&height=220&section=header&text=Hi,%20I%20am%20Garima%20Upadhyay.&fontSize=42&fontColor=ffffff&fontAlignY=55&fontAlign=50&desc=Aspiring%20Cybersecurity%20Professional%20%7C%20Secure%20Systems%20Developer%20%7C%20EC-Council%20Certified&descAlignY=75&descSize=14&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,40:0a2a4a,100:00b4d8&height=230&section=header&text=Hi,%20I%20am%20Garima%20Upadhyay.&fontSize=44&fontColor=ffffff&fontAlignY=55&fontAlign=50&desc=Aspiring%20Cybersecurity%20Professional%20%7C%20Secure%20Systems%20Developer%20%7C%20EC-Council%20Certified&descAlignY=75&descSize=15&descAlign=50" width="100%" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/garimaupadhyayy)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/garimaupadhyayy)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:garima.upadhyay716@gmail.com)&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=garimaupadhyayy&style=for-the-badge&color=1a6b8a&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=garimaupadhyayy&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS)
 
 <br/>
 
@@ -70,7 +70,7 @@ I'm a **pre-final year Computer Science** undergraduate with hands-on experience
 
 ## 🔐 Projects
 
-> **Five builds. Each one solves a real security or systems problem.**
+> **Seven builds. Each one solves a real security or systems problem.**
 
 ---
 
@@ -98,6 +98,8 @@ A fully Python-powered host-level intrusion detection system that monitors a mac
 
 **Tech:** `Python` `Hashlib` `Tkinter` `Pandas` `Plotly` `Jupyter` `JSON` `Logging` `Threading`
 
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garimaupadhyayy/Host-Based-Intrusion-Detection-Systemhids)
+
 ---
 
 ### 📡 Real-Time File Integrity Monitoring & Alert System (FIM)
@@ -119,6 +121,8 @@ A Python-based FIM system with GUI interface and email alert functionality. Moni
 
 **Tech:** `Python` `Tkinter` `Hashlib` `JSON` `Logging` `smtplib` `Threading`
 
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garimaupadhyayy/Real-Time-File-Integrity-Monitoring)
+
 ---
 
 ### 🌐 Network Monitoring & Traffic Analytics Dashboard
@@ -137,6 +141,8 @@ A modern and interactive Network Monitoring & Traffic Analytics Dashboard built 
 
 **Tech:** `HTML5` `CSS3` `JavaScript (ES6)` `Chart.js`
 
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garimaupadhyayy/Network-Monitoring-Traffic-Analytics-Dashboard)
+
 ---
 
 ### 💬 Real-Time MultiClient Communication System
@@ -154,6 +160,8 @@ A socket-based real-time communication platform developed using Python that supp
 
 **Tech:** `Python` `Socket Programming` `TCP/IP` `Threading` `Tkinter`
 
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garimaupadhyayy/Real-Time-MultiClient-Communication-System)
+
 ---
 
 ### 🔍 PortSentinel — TCP Port & Service Scanner
@@ -169,6 +177,8 @@ A Python-based TCP port and service scanner capable of scanning ports **1–1024
 - 📋 Clear port-to-service mapping output
 
 **Tech:** `Python` `Socket Programming` `TCP/IP` `Networking`
+
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garimaupadhyayy/Portsentinel-TCP-Port-Service-Scanner)
 
 ---
 
@@ -186,19 +196,31 @@ A rule-based phishing detection system to analyze URLs and email content using *
 
 **Tech:** `Python` `Regex` `Heuristic Analysis` `NLP Techniques`
 
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garimaupadhyayy/PhishTrace-Secure-Url-Email-Analyzer)
+
 ---
 
 ## 💼 Work Experience
 
+### 🛡️ Cyber Security Intern — ShadowFox *(Remote)*
+**Feb 2026 – Mar 2026**
+
+> *"Real tools. Real threats. Real experience."*
+
+A hands-on cybersecurity internship focused on offensive and defensive security techniques in a structured lab environment. Performed live vulnerability assessments, traffic analysis, and exploit simulations using industry-standard tools.
+
 ```
-[Feb 2026 – Mar 2026]   Cyber Security Intern  @  ShadowFox  (Remote)
-────────────────────────────────────────────────────────────────────
-  ✓ Performed vulnerability assessment & network traffic analysis (Wireshark)
-  ✓ Analyzed exposed services & monitored suspicious traffic patterns
-  ✓ Identified potential security weaknesses in target systems
-  ✓ Worked with Metasploit in controlled lab — pen testing & exploit simulation
-  ✓ Documented findings in structured internship reports
+  ✓ Performed vulnerability assessment & network traffic analysis using Wireshark
+  ✓ Analyzed exposed services & monitored suspicious traffic patterns in real time
+  ✓ Identified potential security weaknesses across target systems
+  ✓ Worked with Metasploit in a controlled lab — pen testing & exploit simulation
+  ✓ Documented findings in structured internship reports with remediation notes
+  ✓ Completed task-based cybersecurity challenges across multiple security domains
 ```
+
+**Tools Used:** `Wireshark` `Metasploit` `Kali Linux` `Nmap` `Burp Suite`
+
+[![View Internship Repo](https://img.shields.io/badge/View%20Internship%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garimaupadhyayy/ShadowFox-CyberSecurity-Internship)
 
 ---
 
@@ -219,11 +241,11 @@ A rule-based phishing detection system to analyze URLs and email content using *
 
 <div align="center">
 
-![Garima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garimaupadhyayy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=1a6b8a&icon_color=1a6b8a&text_color=c9d1d9)
+![Garima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garimaupadhyayy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garimaupadhyayy&layout=compact&hide_border=true&bg_color=0d1117&title_color=1a6b8a&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garimaupadhyayy&layout=compact&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=garimaupadhyayy&hide_border=true&background=0d1117&ring=1a6b8a&fire=1a6b8a&currStreakLabel=1a6b8a)
+![GitHub Streak](https://streak-stats.demolab.com?user=garimaupadhyayy&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8)
 
 </div>
 
@@ -288,7 +310,7 @@ A rule-based phishing detection system to analyze URLs and email content using *
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6b8a,100:0d1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0d1117&height=120&section=footer" width="100%" />
 
 *"Security is not a product. It's a process."*
 

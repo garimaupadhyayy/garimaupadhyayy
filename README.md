@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,40:0a2a4a,100:00b4d8&height=230&section=header&text=Hi,%20I%20am%20Garima%20Upadhyay.&fontSize=44&fontColor=ffffff&fontAlignY=55&fontAlign=50&desc=Aspiring%20Cybersecurity%20Professional%20%7C%20Secure%20Systems%20Developer%20%7C%20EC-Council%20Certified&descAlignY=75&descSize=15&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:7b2d8b&height=250&section=header&text=Hi,%20I%20am%20Garima%20Upadhyay.&fontSize=46&fontColor=ffffff&fontAlignY=45&fontAlign=50&desc=Aspiring%20Cybersecurity%20Professional%20%7C%20Secure%20Systems%20Developer%20%7C%20EC-Council%20Certified&descAlignY=65&descSize=15&descAlign=50" width="100%" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/garimaupadhyayy)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/garimaupadhyayy)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:garima.upadhyay716@gmail.com)&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=garimaupadhyayy&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=garimaupadhyayy&style=for-the-badge&color=7b2d8b&label=PROFILE+VIEWS)
 
 <br/>
 
@@ -21,17 +21,35 @@
 const garima = {
   role:         "Cybersecurity Enthusiast & Secure Systems Developer",
   university:   "JECRC University, Jaipur  [2023–27]",
-  year:         "Pre-Final Year  |  B.Tech CSE",
-  cgpa:         7.73,
-  focus:        ["Penetration Testing", "Threat Detection", "Incident Response"],
-  interests:    ["Network Security", "AI + Security", "Cryptography", "OSINT"],
-  certifiedBy:  ["EC-Council — CEH, CND, ECSS, CSCU", "Google Cybersecurity"],
+  degree:       "B.Tech Computer Science — Specialisation in Cyber Security",
+  year:         "Final Year",
+  focus:        [
+                  "Penetration Testing",
+                  "Threat Detection & Incident Response",
+                  "Secure System Design",
+                  "Vulnerability Assessment",
+                  "Network Defense & Monitoring",
+                ],
+  interests:    [
+                  "Network Security",
+                  "AI + Security",
+                  "Cryptography & Encryption",
+                  "Scalable Secure Systems",
+                  "Malware Analysis",
+                  "Cloud Security",
+                  "Zero Trust Architecture",
+                ],
+  certifiedBy:  [
+                  "EC-Council — CEH, CND, ECSS, CSCU",
+                  "Google Cybersecurity Professional",
+                  "Google Project Management",
+                  "Google Cloud Computing Foundations",
+                ],
   status:       "Open to Internships & Job Opportunities 🚀",
-  funFact:      "I built a real HIDS that detects brute-force in under 6.4 seconds.",
 };
 ```
 
-I'm a **pre-final year Computer Science** undergraduate with hands-on experience in cybersecurity tools, threat analysis, and secure system development. Certified by **EC-Council** and **Google**. Passionate about building systems that actively **defend** — not just monitor.
+I'm a **final year B.Tech Computer Science** undergraduate specialising in **Cyber Security** at JECRC University, Jaipur. I have hands-on experience in cybersecurity tools, threat analysis, and secure system development. Certified by **EC-Council** and **Google**. Passionate about building systems that actively **defend** — not just monitor.
 
 ---
 
@@ -85,9 +103,9 @@ A Python-powered HIDS that monitors authentication logs, file integrity, running
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=flat-square)
 ![Hashlib](https://img.shields.io/badge/Hashlib-SHA256-6A0DAD?style=flat-square)
 ![Plotly](https://img.shields.io/badge/Plotly-Dashboards-3F4F75?style=flat-square)
-![Threading](https://img.shields.io/badge/Threading-Async-orange?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-Storage-grey?style=flat-square)
 
-[![View Project](https://img.shields.io/badge/🔗%20View%20Project-00b4d8?style=for-the-badge)](https://github.com/garimaupadhyayy/Host-Based-Intrusion-Detection-Systemhids)
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/Host-Based-Intrusion-Detection-Systemhids)
 
 </td>
     <td width="50%" valign="top">
@@ -100,10 +118,10 @@ SHA-256 based file monitoring system that detects file additions, deletions, and
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=flat-square)
 ![smtplib](https://img.shields.io/badge/smtplib-Email_Alerts-EA4335?style=flat-square)
+![Hashlib](https://img.shields.io/badge/Hashlib-SHA256-6A0DAD?style=flat-square)
 ![JSON](https://img.shields.io/badge/JSON-Baseline-grey?style=flat-square)
-![Threading](https://img.shields.io/badge/Threading-Async-orange?style=flat-square)
 
-[![View Project](https://img.shields.io/badge/🔗%20View%20Project-00b4d8?style=for-the-badge)](https://github.com/garimaupadhyayy/Real-Time-File-Integrity-Monitoring)
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/Real-Time-File-Integrity-Monitoring)
 
 </td>
   </tr>
@@ -120,7 +138,7 @@ Dark-themed interactive dashboard with real-time network traffic visualization, 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
-[![View Project](https://img.shields.io/badge/🔗%20View%20Project-00b4d8?style=for-the-badge)](https://github.com/garimaupadhyayy/Network-Monitoring-Traffic-Analytics-Dashboard)
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/Network-Monitoring-Traffic-Analytics-Dashboard)
 
 </td>
     <td width="50%" valign="top">
@@ -132,10 +150,10 @@ TCP socket-based platform supporting multiple concurrent users with group & priv
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Sockets-0078D4?style=flat-square)
-![Threading](https://img.shields.io/badge/Threading-MultiClient-orange?style=flat-square)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=flat-square)
+![Socket](https://img.shields.io/badge/Socket-Programming-4B0082?style=flat-square)
 
-[![View Project](https://img.shields.io/badge/🔗%20View%20Project-00b4d8?style=for-the-badge)](https://github.com/garimaupadhyayy/Real-Time-MultiClient-Communication-System)
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/Real-Time-MultiClient-Communication-System)
 
 </td>
   </tr>
@@ -149,9 +167,9 @@ Scans ports 1–1024 via real-time TCP socket communication to identify open por
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Socket](https://img.shields.io/badge/Socket-TCP%2FIP-0078D4?style=flat-square)
-![Networking](https://img.shields.io/badge/Networking-Recon-4B0082?style=flat-square)
+![Nmap](https://img.shields.io/badge/Port_Scanning-1024_Ports-4B0082?style=flat-square)
 
-[![View Project](https://img.shields.io/badge/🔗%20View%20Project-00b4d8?style=for-the-badge)](https://github.com/garimaupadhyayy/Portsentinel-TCP-Port-Service-Scanner)
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/Portsentinel-TCP-Port-Service-Scanner)
 
 </td>
     <td width="50%" valign="top">
@@ -163,9 +181,10 @@ Rule-based phishing detection system using 10+ heuristic indicators — insecure
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Regex](https://img.shields.io/badge/Regex-Pattern_Match-grey?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-Heuristic_Analysis-00b4d8?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-Techniques-7b2d8b?style=flat-square)
+![Risk Scoring](https://img.shields.io/badge/Risk_Score-0--100-EA4335?style=flat-square)
 
-[![View Project](https://img.shields.io/badge/🔗%20View%20Project-00b4d8?style=for-the-badge)](https://github.com/garimaupadhyayy/PhishTrace-Secure-Url-Email-Analyzer)
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/PhishTrace-Secure-Url-Email-Analyzer)
 
 </td>
   </tr>
@@ -183,7 +202,7 @@ Task-based cybersecurity projects completed during the ShadowFox internship — 
 ![Nmap](https://img.shields.io/badge/Nmap-4B0082?style=flat-square)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
 
-[![View Project](https://img.shields.io/badge/🔗%20View%20Project-00b4d8?style=for-the-badge)](https://github.com/garimaupadhyayy/ShadowFox-CyberSecurity-Internship)
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/ShadowFox-CyberSecurity-Internship)
 
 </td>
     <td width="50%" valign="top">
@@ -221,6 +240,7 @@ Task-based cybersecurity projects completed during the ShadowFox internship — 
 ```
 ✓  Google Cybersecurity Professional Certificate       [Google]
 ✓  Google Project Management Professional Certificate  [Google]
+✓  Google Cloud Computing Foundations                  [Google Cloud]
 ✓  Certified Ethical Hacker (CEH)                     [EC-Council]
 ✓  Certified Network Defender (CND)                   [EC-Council]
 ✓  EC-Council Certified Security Specialist (ECSS)    [EC-Council]
@@ -233,11 +253,11 @@ Task-based cybersecurity projects completed during the ShadowFox internship — 
 
 <div align="center">
 
-![Garima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garimaupadhyayy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9)
+![Garima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garimaupadhyayy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7b2d8b&icon_color=7b2d8b&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garimaupadhyayy&layout=compact&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garimaupadhyayy&layout=compact&hide_border=true&bg_color=0d1117&title_color=7b2d8b&text_color=c9d1d9)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=garimaupadhyayy&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8)
+![GitHub Streak](https://streak-stats.demolab.com?user=garimaupadhyayy&hide_border=true&background=0d1117&ring=7b2d8b&fire=7b2d8b&currStreakLabel=7b2d8b&sideLabels=c9d1d9&dates=c9d1d9&sideNums=7b2d8b&stroke=7b2d8b&currStreakNum=ffffff)
 
 </div>
 
@@ -302,7 +322,7 @@ Task-based cybersecurity projects completed during the ShadowFox internship — 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2d8b,100:0d1117&height=120&section=footer" width="100%" />
 
 *"Security is not a product. It's a process."*
 

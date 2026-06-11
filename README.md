@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:7b2d8b&height=250&section=header&text=Hi,%20I%20am%20Garima%20Upadhyay.&fontSize=46&fontColor=ffffff&fontAlignY=45&fontAlign=50&desc=Aspiring%20Cybersecurity%20Professional%20%7C%20Secure%20Systems%20Developer%20%7C%20EC-Council%20Certified&descAlignY=65&descSize=15&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:1a1a2e,100:7b2d8b&height=200&section=header&text=Hi,%20I%20am%20Garima%20Upadhyay.&fontSize=46&fontColor=ffffff&fontAlignY=45&fontAlign=50&desc=Aspiring%20Cybersecurity%20Professional%20%7C%20Secure%20Systems%20Developer%20%7C%20EC-Council%20Certified&descAlignY=68&descSize=15&descAlign=50" width="100%" />
 
 <br/>
 
@@ -45,10 +45,11 @@ const garima = {
                   "Google Project Management",
                   "Google Cloud Computing Foundations",
                 ],
-  status:       ["Open to Internships & Job Opportunities 🚀"];
+  status:       "Open to Internships & Job Opportunities 🚀",
+};
 ```
 
-I'm a **final year B.Tech Computer Science** undergraduate specialising in **Cyber Security** at JECRC University, Jaipur. I have hands-on experience in cybersecurity tools, threat analysis, and secure system development. Certified by **EC-Council** and **Google**. Passionate about building systems that actively **defend**  not just monitor.
+I'm a **final year B.Tech Computer Science** undergraduate specialising in **Cyber Security** at JECRC University, Jaipur. I have hands-on experience in cybersecurity tools, threat analysis, and secure system development. Certified by **EC-Council** and **Google**. Passionate about building systems that actively **defend** — not just monitor.
 
 ---
 
@@ -179,9 +180,8 @@ Scans ports 1–1024 via real-time TCP socket communication to identify open por
 Rule-based phishing detection system using 10+ heuristic indicators — insecure protocols, IP-based URLs, urgency language, suspicious link patterns — with a risk scoring engine (0–100) producing Low / Medium / High classification.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Regex](https://img.shields.io/badge/Regex-Pattern_Match-grey?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-Techniques-7b2d8b?style=flat-square)
-![Risk Scoring](https://img.shields.io/badge/Risk_Score-0--100-EA4335?style=flat-square)
+![Regex](https://img.shields.io/badge/Regex-grey?style=flat-square)
+![Heuristic Analysis](https://img.shields.io/badge/Heuristic_Analysis-4B0082?style=flat-square)
 
 [![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/PhishTrace-Secure-Url-Email-Analyzer)
 

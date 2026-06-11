@@ -72,131 +72,127 @@ I'm a **pre-final year Computer Science** undergraduate with hands-on experience
 
 > **Seven builds. Each one solves a real security or systems problem.**
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🔒 Host-Based Intrusion Detection System (HIDS)
-> *"A machine that watches itself — so attackers can't hide."*
+> *Detects brute-force attacks in under **6.4 seconds***
 
-A fully Python-powered host-level intrusion detection system that monitors a machine from within — watching **authentication logs**, **file integrity**, **running processes**, and **active network connections** — and raises classified alerts in real time.
+A Python-powered HIDS that monitors authentication logs, file integrity, running processes, and active network connections — raising classified alerts in real time with a live GUI dashboard.
 
-| Metric | Result |
-|--------|--------|
-| ⏱️ Scan Speed | Under **6.4 seconds** |
-| ✅ Test Cases | **100% passed** |
-| 💰 Cost to Deploy | **Zero** |
-| 🖥️ Hardware Required | **None** (any standard laptop) |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=flat-square)
+![Hashlib](https://img.shields.io/badge/Hashlib-SHA256-6A0DAD?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-Dashboards-3F4F75?style=flat-square)
+![Threading](https://img.shields.io/badge/Threading-Async-orange?style=flat-square)
 
-**Key Features:**
-- 🔑 SHA-256 file integrity monitoring with baseline comparison
-- 🚨 Brute-force login detection via auth log parsing
-- ⚙️ Suspicious process & unauthorized network activity detection
-- 📊 Live cybersecurity dashboard — LOW / HIGH / CRITICAL severity
-- 📧 Email alert notifications with real-time threat classification
-- 🖼️ GUI built with Tkinter for interactive monitoring
-- 🗂️ Logging system (`alerts.log`) + JSON baseline storage
-- 🔐 Secure credential handling via `.env`
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-00b4d8?style=for-the-badge)](https://github.com/garimaupadhyayy/Host-Based-Intrusion-Detection-Systemhids)
 
-**Tech:** `Python` `Hashlib` `Tkinter` `Pandas` `Plotly` `Jupyter` `JSON` `Logging` `Threading`
+</td>
+    <td width="50%" valign="top">
 
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garimaupadhyayy/Host-Based-Intrusion-Detection-Systemhids)
+### 📡 Real-Time File Integrity Monitoring (FIM)
+> *Know the moment a file changes — before damage is done*
 
----
+SHA-256 based file monitoring system that detects file additions, deletions, and modifications every 10 seconds, with GUI alerts and email notifications for SOC-level incident response.
 
-### 📡 Real-Time File Integrity Monitoring & Alert System (FIM)
-> *"Know the moment a file changes — before damage is done."*
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=flat-square)
+![smtplib](https://img.shields.io/badge/smtplib-Email_Alerts-EA4335?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-Baseline-grey?style=flat-square)
+![Threading](https://img.shields.io/badge/Threading-Async-orange?style=flat-square)
 
-A Python-based FIM system with GUI interface and email alert functionality. Monitors selected directories for file changes — Addition, Deletion, Modification — using SHA-256 hashing and generates real-time alerts.
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-00b4d8?style=for-the-badge)](https://github.com/garimaupadhyayy/Real-Time-File-Integrity-Monitoring)
 
-**Key Features:**
-- 🔍 SHA-256 hashing for tamper detection
-- 📁 Directory monitoring every **10 seconds**
-- ➕ Detects file addition, modification, deletion
-- 📧 Email alert notifications on threats
-- 🖼️ GUI built with Tkinter
-- ⚙️ Multi-threaded execution for performance
-- 🗂️ Baseline stored in JSON format
-- 🔐 Secure `.env` credential handling
-
-**Use Cases:** SOC environments · Threat detection systems · Incident response workflows
-
-**Tech:** `Python` `Tkinter` `Hashlib` `JSON` `Logging` `smtplib` `Threading`
-
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garimaupadhyayy/Real-Time-File-Integrity-Monitoring)
-
----
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🌐 Network Monitoring & Traffic Analytics Dashboard
-> *"See your network like a NOC engineer — in real time."*
+> *See your network like a NOC engineer — in real time*
 
-A modern and interactive Network Monitoring & Traffic Analytics Dashboard built with HTML, CSS, and JavaScript. Provides real-time styled visualization of network traffic, bandwidth usage, alerts, connected devices, and system analytics through a responsive dark-themed dashboard UI.
+Dark-themed interactive dashboard with real-time network traffic visualization, bandwidth stats, system alerts panel, and connected devices overview. Built with Chart.js for dynamic rendering.
 
-**Key Features:**
-- 📈 Real-time inspired network analytics dashboard
-- 📊 Interactive charts and traffic visualization (Chart.js)
-- 🚨 System alerts monitoring panel
-- 📶 Bandwidth usage statistics
-- 🖥️ Connected devices overview
-- 🎨 Modern dark-themed professional UI
-- 📱 Responsive and modular code structure
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
-**Tech:** `HTML5` `CSS3` `JavaScript (ES6)` `Chart.js`
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-00b4d8?style=for-the-badge)](https://github.com/garimaupadhyayy/Network-Monitoring-Traffic-Analytics-Dashboard)
 
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garimaupadhyayy/Network-Monitoring-Traffic-Analytics-Dashboard)
-
----
+</td>
+    <td width="50%" valign="top">
 
 ### 💬 Real-Time MultiClient Communication System
-> *"A socket server that never drops a client."*
+> *A socket server that never drops a client*
 
-A socket-based real-time communication platform developed using Python that supports **multiple concurrent users** through TCP socket programming and multi-threaded server architecture.
+TCP socket-based platform supporting multiple concurrent users with group & private messaging, live online users list, session chat logging, and a Tkinter GUI — backed by multi-threaded server architecture.
 
-**Key Features:**
-- 👥 Multi-client support with concurrent connections
-- 💬 Group messaging & private messaging
-- 🟢 Online users list with live updates
-- 📝 Chat logging for session history
-- 🖼️ Tkinter GUI for client interface
-- ⚙️ Multi-threaded server — one thread per client
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Sockets-0078D4?style=flat-square)
+![Threading](https://img.shields.io/badge/Threading-MultiClient-orange?style=flat-square)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=flat-square)
 
-**Tech:** `Python` `Socket Programming` `TCP/IP` `Threading` `Tkinter`
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-00b4d8?style=for-the-badge)](https://github.com/garimaupadhyayy/Real-Time-MultiClient-Communication-System)
 
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garimaupadhyayy/Real-Time-MultiClient-Communication-System)
-
----
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🔍 PortSentinel — TCP Port & Service Scanner
-> *"Know what's exposed before the attacker does."*
+> *Know what's exposed before the attacker does*
 
-A Python-based TCP port and service scanner capable of scanning ports **1–1024** to identify open ports and detect active services using real-time socket communication.
+Scans ports 1–1024 via real-time TCP socket communication to identify open ports and running services (HTTP, FTP, SSH, HTTPS and more). Produces structured port-to-service mapping for network exposure analysis.
 
-**Key Features:**
-- 🔓 TCP port scanning across full 1–1024 range
-- 🌐 Service identification: HTTP, FTP, SSH, HTTPS, and more
-- ⚡ Fast socket-based scanning with structured output
-- 🗺️ Network exposure analysis for basic reconnaissance
-- 📋 Clear port-to-service mapping output
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Socket](https://img.shields.io/badge/Socket-TCP%2FIP-0078D4?style=flat-square)
+![Networking](https://img.shields.io/badge/Networking-Recon-4B0082?style=flat-square)
 
-**Tech:** `Python` `Socket Programming` `TCP/IP` `Networking`
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-00b4d8?style=for-the-badge)](https://github.com/garimaupadhyayy/Portsentinel-TCP-Port-Service-Scanner)
 
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garimaupadhyayy/Portsentinel-TCP-Port-Service-Scanner)
-
----
+</td>
+    <td width="50%" valign="top">
 
 ### 🎣 PhishTrace — Secure URL & Email Analyzer
-> *"Catch phishing before it catches you."*
+> *Catch phishing before it catches you*
 
-A rule-based phishing detection system to analyze URLs and email content using **10+ heuristic indicators** such as insecure protocols, suspicious keywords, and domain patterns.
+Rule-based phishing detection system using 10+ heuristic indicators — insecure protocols, IP-based URLs, urgency language, suspicious link patterns — with a risk scoring engine (0–100) producing Low / Medium / High classification.
 
-**Key Features:**
-- 🔗 URL Analysis: insecure protocols, IP-based URLs, suspicious structure
-- 📧 Email Analysis: urgency language, suspicious links, phishing patterns
-- 🎯 Risk scoring system (0–100) → Low / Medium / High classification
-- 🧠 10+ heuristic rules for feature-based detection
-- 📖 Transparent, explainable results per detection
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Regex](https://img.shields.io/badge/Regex-Pattern_Match-grey?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-Heuristic_Analysis-00b4d8?style=flat-square)
 
-**Tech:** `Python` `Regex` `Heuristic Analysis` `NLP Techniques`
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-00b4d8?style=for-the-badge)](https://github.com/garimaupadhyayy/PhishTrace-Secure-Url-Email-Analyzer)
 
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garimaupadhyayy/PhishTrace-Secure-Url-Email-Analyzer)
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🛡️ ShadowFox Cybersecurity Internship Projects
+> *Real tools. Real threats. Real experience.*
+
+Task-based cybersecurity projects completed during the ShadowFox internship — vulnerability assessments, network traffic analysis, pen testing simulations with Metasploit, and structured security reports across multiple domains.
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4B0082?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
+
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-00b4d8?style=for-the-badge)](https://github.com/garimaupadhyayy/ShadowFox-CyberSecurity-Internship)
+
+</td>
+    <td width="50%" valign="top">
+
+&nbsp;
+
+</td>
+  </tr>
+</table>
 
 ---
 
@@ -204,10 +200,6 @@ A rule-based phishing detection system to analyze URLs and email content using *
 
 ### 🛡️ Cyber Security Intern — ShadowFox *(Remote)*
 **Feb 2026 – Mar 2026**
-
-> *"Real tools. Real threats. Real experience."*
-
-A hands-on cybersecurity internship focused on offensive and defensive security techniques in a structured lab environment. Performed live vulnerability assessments, traffic analysis, and exploit simulations using industry-standard tools.
 
 ```
   ✓ Performed vulnerability assessment & network traffic analysis using Wireshark

@@ -100,7 +100,7 @@ I'm a **final year B.Tech Computer Science** undergraduate specialising in **Cyb
 ### 🔒 Host-Based Intrusion Detection System (HIDS)
 > *Detects brute-force attacks in under **6.4 seconds***
 
-A Python-powered HIDS that monitors authentication logs, file integrity, running processes, and active network connections — raising classified alerts in real time with a live GUI dashboard.
+A Python powered HIDS that monitors authentication logs, file integrity, running processes, and active network connections raising classified alerts in real time with a live GUI dashboard.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=flat-square)
@@ -149,7 +149,7 @@ Dark-themed interactive dashboard with real-time network traffic visualization, 
 ### 💬 Real-Time MultiClient Communication System
 > *A socket server that never drops a client*
 
-TCP socket-based platform supporting multiple concurrent users with group & private messaging, live online users list, session chat logging, and a Tkinter GUI — backed by multi-threaded server architecture.
+TCP socket-based platform supporting multiple concurrent users with group & private messaging, live online users list, session chat logging, and a Tkinter GUI backed by multi-threaded server architecture.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Sockets-0078D4?style=flat-square)
@@ -180,7 +180,7 @@ Scans ports 1–1024 via real-time TCP socket communication to identify open por
 ### 🎣 PhishTrace — Secure URL & Email Analyzer
 > *Catch phishing before it catches you*
 
-Rule-based phishing detection system using 10+ heuristic indicators — insecure protocols, IP-based URLs, urgency language, suspicious link patterns — with a risk scoring engine (0–100) producing Low / Medium / High classification.
+Rule-based phishing detection system using 10+ heuristic indicators insecure protocols, IP-based URLs, urgency language, suspicious link patterns — with a risk scoring engine (0–100) producing Low / Medium / High classification.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Regex](https://img.shields.io/badge/Regex-grey?style=flat-square)
@@ -196,7 +196,7 @@ Rule-based phishing detection system using 10+ heuristic indicators — insecure
 ### 🛡️ ShadowFox Cybersecurity Internship Projects
 > *Real tools. Real threats. Real experience.*
 
-Task-based cybersecurity projects completed during the ShadowFox internship — vulnerability assessments, network traffic analysis, pen testing simulations with Metasploit, and structured security reports across multiple domains.
+Task-based cybersecurity projects completed during the ShadowFox internship vulnerability assessments, network traffic analysis, pen testing simulations with Metasploit, and structured security reports across multiple domains.
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
@@ -223,10 +223,10 @@ Task-based cybersecurity projects completed during the ShadowFox internship — 
 **Feb 2026 – Mar 2026**
 
 ```
-  ✓ Conducted end-to-end web app security assessments — port scanning, service enumeration, directory discovery, and vuln identification using Nmap and Gobuster.
+  ✓ Conducted end-to-end web app security assessments port scanning, service enumeration, directory discovery, and vuln identification using Nmap and Gobuster.
   ✓ Performed network traffic analysis with Wireshark, captured HTTP credentials, and applied HashID + Hashcat for hash cracking and VeraCrypt volume access.
   ✓ Developed and deployed reverse shell payloads via MSFVenom and Metasploit; analyzed PE structures using PE Explorer for reverse engineering fundamentals.
-  ✓ Completed full pentest workflow on TryHackMe Basic Pentesting — recon, SMB enumeration, SSH access, privilege escalation, and post-exploitation in a VMware lab.
+  ✓ Completed full pentest workflow on TryHackMe Basic Pentesting, SMB enumeration, SSH access, privilege escalation, and post-exploitation in a VMware lab.
 ```
 
 **Tools Used:** `Nmap` `Gobuster` `Wireshark` `Hashcat` `HashID` `PE Explorer` `MSFVenom` `Metasploit` `VeraCrypt` `Kali Linux` `VMware`

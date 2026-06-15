@@ -45,6 +45,7 @@ const garima = {
                   "Google Cloud Computing Foundations",
                 ],
   status:       "Open to Internships & Job Opportunities 🚀"
+}
 ```
 
 I'm a **final year B.Tech Computer Science** undergraduate specialising in **Cyber Security** at JECRC University, Jaipur. I have hands-on experience in cybersecurity tools, threat analysis, and secure system development. Certified by **EC-Council** and **Google**. Passionate about building systems that actively **defend** not just monitor.
@@ -253,11 +254,15 @@ Task-based cybersecurity projects completed during the ShadowFox internship vuln
 
 <div align="center">
 
-![Garima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garimaupadhyayy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7b2d8b&icon_color=7b2d8b&text_color=c9d1d9)
+![Garima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garimaupadhyayy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7b2d8b&icon_color=7b2d8b&text_color=c9d1d9&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garimaupadhyayy&layout=compact&hide_border=true&bg_color=0d1117&title_color=7b2d8b&text_color=c9d1d9)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=garimaupadhyayy&hide_border=true&background=0d1117&ring=7b2d8b&fire=7b2d8b&currStreakLabel=7b2d8b&sideLabels=c9d1d9&dates=c9d1d9&sideNums=7b2d8b&stroke=7b2d8b&currStreakNum=ffffff)
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=garimaupadhyayy&color=7b2d8b&style=for-the-badge&label=Profile+Views)
 
 </div>
 

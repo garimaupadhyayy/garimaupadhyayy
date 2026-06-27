@@ -287,7 +287,7 @@ Task-based cybersecurity projects completed during the ShadowFox internship vuln
 
 </div>
 
-> Tracking DSA progress, problem-solving stats, and contest ratings across LeetCode, Codeforces, CodeChef & more — all in one place.
+> Tracking DSA progress, problem-solving stats, and contest ratings across LeetCode and GFG — all in one place.
 
 ---
 

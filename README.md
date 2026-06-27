@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/garimaupadhyayy)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/garimaupadhyayy)&nbsp;
+[![Codolio](https://img.shields.io/badge/Codolio-Portfolio-7b2d8b?style=for-the-badge&logo=code&logoColor=white&labelColor=0d1117)](https://codolio.com/profile/Garima_upadhyay)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:garima.upadhyay716@gmail.com)&nbsp;
 
 <br/>
@@ -273,6 +274,20 @@ Task-based cybersecurity projects completed during the ShadowFox internship vuln
 ![](https://komarev.com/ghpvc/?username=garimaupadhyayy&color=7b2d8b&style=for-the-badge&label=Profile+Views)
 
 </div>
+
+---
+
+## 🧩 Competitive Programming & DSA
+
+<div align="center">
+
+[![Codolio](https://img.shields.io/badge/Codolio-DSA%20Portfolio-7b2d8b?style=for-the-badge&logo=code&logoColor=white&labelColor=0d1117)](https://codolio.com/profile/Garima_upadhyay)
+
+<img src="https://codolio.com/api/og/Garima_upadhyay" alt="Garima Upadhyay - Codolio Stats" width="70%" style="border-radius:10px; margin-top:10px;"/>
+
+</div>
+
+> Tracking DSA progress, problem-solving stats, and contest ratings across LeetCode, Codeforces, CodeChef & more — all in one place.
 
 ---
 

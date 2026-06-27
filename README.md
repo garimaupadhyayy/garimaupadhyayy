@@ -254,11 +254,19 @@ Task-based cybersecurity projects completed during the ShadowFox internship vuln
 
 <div align="center">
 
-![Garima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garimaupadhyayy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7b2d8b&icon_color=7b2d8b&text_color=c9d1d9&count_private=true&include_all_commits=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garimaupadhyayy&layout=compact&hide_border=true&bg_color=0d1117&title_color=7b2d8b&text_color=c9d1d9)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=garimaupadhyayy&hide_border=true&background=0d1117&ring=7b2d8b&fire=7b2d8b&currStreakLabel=7b2d8b&sideLabels=c9d1d9&dates=c9d1d9&sideNums=7b2d8b&stroke=7b2d8b&currStreakNum=ffffff)
+
+<br/>
+
+![Total Contributions](https://img.shields.io/badge/Total%20Contributions%20(Last%20Year)-1%2C607-7b2d8b?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Longest Streak](https://img.shields.io/badge/Longest%20Streak-19%20Days-7b2d8b?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Since](https://img.shields.io/badge/Active%20Since-Jun%202025-c9d1d9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+
+<br/>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=garimaupadhyayy&bg_color=0d1117&color=7b2d8b&line=7b2d8b&point=ffffff&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%201%2C607%20contributions%20in%20the%20last%20year)
 
 <br/>
 

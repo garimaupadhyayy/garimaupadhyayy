@@ -93,7 +93,7 @@ I'm a **final year B.Tech Computer Science** undergraduate specialising in **Cyb
 
 ## 🔐 Projects
 
-> **Eight builds. Each one solves a real security or systems problem.**
+> **Nine builds. Each one solves a real security or systems problem.**
 
 <table>
   <tr>
@@ -227,6 +227,30 @@ Full-stack app that automates research by combining real-time web search with Ge
 
 </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🌐 Web-Based URL to QR Code Generation Platform
+> *Bridging physical and digital content, one scan at a time*
+
+A modern, responsive web app that converts any valid URL into a high-quality, downloadable QR code instantly. Built with React, TypeScript, and Vite for speed and a clean UI, with real-time URL validation and seamless QR generation.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square)
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-c026d3?style=for-the-badge)](https://web-based-url-to-qr-code-generation.vercel.app/)
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/Web-Based-URL-to-QR-Code-Generation-Platform)
+
+</td>
+    <td width="50%" valign="top">
+
+&nbsp;
+
+</td>
+  </tr>
 </table>
 
 ---
@@ -273,13 +297,13 @@ Full-stack app that automates research by combining real-time web search with Ge
 
 <br/>
 
-![Total Contributions](https://img.shields.io/badge/Total%20Contributions%20(Last%20Year)-1%2C591-7b2d8b?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Total Contributions](https://img.shields.io/badge/Total%20Contributions%20(Last%20Year)-1%2C598-7b2d8b?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-19%20Days-7b2d8b?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 ![Since](https://img.shields.io/badge/Active%20Since-Jun%202025-c9d1d9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 
 <br/>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=garimaupadhyayy&bg_color=0d1117&color=7b2d8b&line=7b2d8b&point=ffffff&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%201%2C591%20contributions%20in%20the%20last%20year)
+![](https://github-readme-activity-graph.vercel.app/graph?username=garimaupadhyayy&bg_color=0d1117&color=7b2d8b&line=7b2d8b&point=ffffff&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%201%2C598%20contributions%20in%20the%20last%20year)
 
 <br/>
 

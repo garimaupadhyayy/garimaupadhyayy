@@ -93,7 +93,7 @@ I'm a **final year B.Tech Computer Science** undergraduate specialising in **Cyb
 
 ## 🔐 Projects
 
-> **Seven builds. Each one solves a real security or systems problem.**
+> **Eight builds. Each one solves a real security or systems problem.**
 
 <table>
   <tr>
@@ -211,7 +211,19 @@ Task-based cybersecurity projects completed during the ShadowFox internship vuln
 </td>
     <td width="50%" valign="top">
 
-&nbsp;
+### 🤖 AI Research Assistant
+> *Turns any topic into a structured research report in seconds*
+
+Full-stack app that automates research by combining real-time web search with Generative AI. Searches the web via Tavily & Serper APIs, then uses Gemini 1.5 Flash to synthesize a summary, key insights, and audited sources. Research history is stored in a cloud TiDB MySQL database. Live and fully deployed (frontend on Vercel, backend on Render).
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_1.5_Flash-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![TiDB](https://img.shields.io/badge/TiDB-Cloud_DB-FF6B35?style=flat-square)
+![Tavily](https://img.shields.io/badge/Tavily-Search_API-7b2d8b?style=flat-square)
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-c026d3?style=for-the-badge)](https://ai-research-assistant-livid-zeta.vercel.app)
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/AI-Research-Assistant)
 
 </td>
   </tr>
@@ -261,13 +273,13 @@ Task-based cybersecurity projects completed during the ShadowFox internship vuln
 
 <br/>
 
-![Total Contributions](https://img.shields.io/badge/Total%20Contributions%20(Last%20Year)-1%2C607-7b2d8b?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Total Contributions](https://img.shields.io/badge/Total%20Contributions%20(Last%20Year)-1%2C591-7b2d8b?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-19%20Days-7b2d8b?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 ![Since](https://img.shields.io/badge/Active%20Since-Jun%202025-c9d1d9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 
 <br/>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=garimaupadhyayy&bg_color=0d1117&color=7b2d8b&line=7b2d8b&point=ffffff&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%201%2C607%20contributions%20in%20the%20last%20year)
+![](https://github-readme-activity-graph.vercel.app/graph?username=garimaupadhyayy&bg_color=0d1117&color=7b2d8b&line=7b2d8b&point=ffffff&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%201%2C591%20contributions%20in%20the%20last%20year)
 
 <br/>
 
@@ -287,7 +299,7 @@ Task-based cybersecurity projects completed during the ShadowFox internship vuln
 
 </div>
 
-> Tracking DSA progress, problem-solving stats, and contest ratings across LeetCode and GFG — all in one place.
+> Tracking DSA progress and problem-solving stats across **LeetCode** and **GeeksforGeeks** — all in one place.
 
 ---
 

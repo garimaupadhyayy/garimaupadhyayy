@@ -93,7 +93,7 @@ I'm a **final year B.Tech Computer Science** undergraduate specialising in **Cyb
 
 ## 🔐 Projects
 
-> **Nine builds. Each one solves a real security or systems problem.**
+> **Ten builds. Each one solves a real security or systems problem.**
 
 <table>
   <tr>
@@ -247,7 +247,18 @@ A modern, responsive web app that converts any valid URL into a high-quality, do
 </td>
     <td width="50%" valign="top">
 
-&nbsp;
+### 🔎 AI-Powered Lost-and-Found Management System
+> *Reuniting people with their belongings using AI vision*
+
+An intelligent web app that matches lost and found items using AI image analysis. Users upload photos of items, and the system uses CLIP embeddings to identify potential matches based on visual similarity and metadata, backed by a FastAPI service and PostgreSQL with pgvector.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![CLIP](https://img.shields.io/badge/CLIP-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/AI-Powered-Lost-and-Found-Management-System)
 
 </td>
   </tr>
@@ -297,13 +308,13 @@ A modern, responsive web app that converts any valid URL into a high-quality, do
 
 <br/>
 
-![Total Contributions](https://img.shields.io/badge/Total%20Contributions%20(Last%20Year)-1%2C598-7b2d8b?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Total Contributions](https://img.shields.io/badge/Total%20Contributions%20(Last%20Year)-1%2C605-7b2d8b?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-19%20Days-7b2d8b?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 ![Since](https://img.shields.io/badge/Active%20Since-Jun%202025-c9d1d9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 
 <br/>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=garimaupadhyayy&bg_color=0d1117&color=7b2d8b&line=7b2d8b&point=ffffff&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%201%2C598%20contributions%20in%20the%20last%20year)
+![](https://github-readme-activity-graph.vercel.app/graph?username=garimaupadhyayy&bg_color=0d1117&color=7b2d8b&line=7b2d8b&point=ffffff&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%201%2C605%20contributions%20in%20the%20last%20year)
 
 <br/>
 

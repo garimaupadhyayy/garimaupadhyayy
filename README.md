@@ -93,7 +93,7 @@ I'm a **final year B.Tech Computer Science** undergraduate specialising in **Cyb
 
 ## 🔐 Projects
 
-> **Ten builds. Each one solves a real security or systems problem.**
+> **Eleven builds. Each one solves a real security or systems problem.**
 
 <table>
   <tr>
@@ -262,6 +262,26 @@ An intelligent web app that matches lost and found items using AI image analysis
 
 </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🗄️ Enterprise Digital Evidence Management System (DEMS)
+> *Chain of custody, enforced by the database itself — not just by policy*
+
+A fully normalized MySQL 8.0 relational database (18 tables, 3NF) modeling the complete lifecycle of digital evidence — seizure, forensic analysis, custody transfers, court submission, and archival — for a multi-department Cyber Crime Investigation Unit. Triggers auto-sync evidence location on every custody transfer, block illegal backward status transitions (e.g. Archived → Collected), and enforce least-privilege access so investigators write only through validated stored procedures. Includes 1,265 sample records, 36 advanced SQL queries, 7 reporting views, 6 stored procedures, and transaction rollback demonstrations.
+
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Stored Procedures](https://img.shields.io/badge/Stored_Procedures-6A0DAD?style=flat-square)
+![Triggers](https://img.shields.io/badge/Triggers-Audit_%26_Integrity-4B0082?style=flat-square)
+![RBAC](https://img.shields.io/badge/RBAC-Least_Privilege-orange?style=flat-square)
+
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/Enterprise-Digital-Evidence-Management-System-DEMS-)
+
+</td>
+    <td width="50%" valign="top">
+
+</td>
+  </tr>
 </table>
 
 ---
@@ -308,13 +328,13 @@ An intelligent web app that matches lost and found items using AI image analysis
 
 <br/>
 
-![Total Contributions](https://img.shields.io/badge/Total%20Contributions%20(Last%20Year)-1%2C605-7b2d8b?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Total Contributions](https://img.shields.io/badge/Total%20Contributions%20(Last%20Year)-1%2C612-7b2d8b?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-19%20Days-7b2d8b?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 ![Since](https://img.shields.io/badge/Active%20Since-Jun%202025-c9d1d9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 
 <br/>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=garimaupadhyayy&bg_color=0d1117&color=7b2d8b&line=7b2d8b&point=ffffff&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%201%2C605%20contributions%20in%20the%20last%20year)
+![](https://github-readme-activity-graph.vercel.app/graph?username=garimaupadhyayy&bg_color=0d1117&color=7b2d8b&line=7b2d8b&point=ffffff&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%201%2C612%20contributions%20in%20the%20last%20year)
 
 <br/>
 

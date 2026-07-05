@@ -268,7 +268,7 @@ An intelligent web app that matches lost and found items using AI image analysis
 ### 🗄️ Enterprise Digital Evidence Management System (DEMS)
 > *Chain of custody, enforced by the database itself — not just by policy*
 
-A fully normalized MySQL 8.0 relational database (18 tables, 3NF) modeling the complete lifecycle of digital evidence — seizure, forensic analysis, custody transfers, court submission, and archival — for a multi-department Cyber Crime Investigation Unit. Triggers auto-sync evidence location on every custody transfer, block illegal backward status transitions (e.g. Archived → Collected), and enforce least-privilege access so investigators write only through validated stored procedures. Includes 1,265 sample records, 36 advanced SQL queries, 7 reporting views, 6 stored procedures, and transaction rollback demonstrations.
+A fully normalized MySQL 8.0 relational database (18 tables, 3NF) modeling the complete lifecycle of digital evidence - seizure, forensic analysis, custody transfers, court submission, and archival for a multi-department Cyber Crime Investigation Unit. Triggers auto-sync evidence location on every custody transfer, block illegal backward status transitions (e.g. Archived → Collected), and enforce least-privilege access so investigators write only through validated stored procedures. Includes 1,265 sample records, 36 advanced SQL queries, 7 reporting views, 6 stored procedures, and transaction rollback demonstrations.
 
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Stored Procedures](https://img.shields.io/badge/Stored_Procedures-6A0DAD?style=flat-square)
@@ -321,8 +321,6 @@ A fully normalized MySQL 8.0 relational database (18 tables, 3NF) modeling the c
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garimaupadhyayy&layout=compact&hide_border=true&bg_color=0d1117&title_color=7b2d8b&text_color=c9d1d9)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=garimaupadhyayy&hide_border=true&background=0d1117&ring=7b2d8b&fire=7b2d8b&currStreakLabel=7b2d8b&sideLabels=c9d1d9&dates=c9d1d9&sideNums=7b2d8b&stroke=7b2d8b&currStreakNum=ffffff)
 

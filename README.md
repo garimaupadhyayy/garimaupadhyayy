@@ -272,7 +272,7 @@ A modern, responsive web app that converts any valid URL into a high-quality, do
 ### 🔎 AI-Powered Lost-and-Found Management System
 > *Reuniting people with their belongings using AI vision*
 
-An intelligent web app that matches lost and found items using AI image analysis. Users upload photos of items, and the system uses CLIP embeddings to identify potential matches based on visual similarity and metadata, backed by a FastAPI service and PostgreSQL with pgvector.
+AI-Powered Lost-and-Found Management System is a full-stack web application that uses Artificial Intelligence to improve the process of reconnecting users with their lost belongings. The platform enables users to report lost or found items by uploading images and descriptive details, then generates potential matches using CLIP image embeddings, visual similarity analysis, and metadata comparison. Built with a Next.js frontend and FastAPI backend, the system provides a responsive user experience, secure REST APIs, and scalable PostgreSQL storage for efficient item management.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)

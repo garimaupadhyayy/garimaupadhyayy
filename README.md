@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:1a1a2e,100:7b2d8b&height=200&section=header&text=Hi,%20I%20am%20Garima%20Upadhyay.&fontSize=46&fontColor=ffffff&fontAlignY=45&fontAlign=50&desc=Aspiring%20Software%20Engineer%20%7C%20Secure%20Systems%20Developer%20%7C%20EC-Council%20Certified&descAlignY=68&descSize=15&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:1a1a2e,100:7b2d8b&height=200&section=header&text=Hi,%20I%20am%20Garima%20Upadhyay.&fontSize=46&fontColor=ffffff&fontAlignY=45&fontAlign=50&desc=Aspiring%20Software%20Engineer%20%7C%20Secure%20Systems%20Developer%20%7C%20EC-Council%20Certified&descAlignY=68&descSize=15&descAlign=50" width="100%" /> 
 
 <br/>
 
@@ -129,7 +129,7 @@ A full-stack, self-hosted SIEM: ingests SSH auth, web access, and firewall logs 
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-Mapped-4B0082?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-RBAC-orange?style=flat-square)
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-c026d3?style=for-the-badge)]((https://sentinelview-console.vercel.app)))
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-c026d3?style=for-the-badge)](https://sentinelview-console.vercel.app)
 [![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/SentinelView-Enterprise-SIEM-Threat-Detection-Platform)
 
 </td>

@@ -102,7 +102,7 @@ I'm a **final year B.Tech Computer Science** undergraduate specialising in **Cyb
 ### 🔒 Host-Based Intrusion Detection System (HIDS)
 > *Detects brute-force attacks in under **6.4 seconds***
 
-A Python powered HIDS that monitors authentication logs, file integrity, running processes, and active network connections raising classified alerts in real time with a live GUI dashboard.
+Host-Based Intrusion Detection System (HIDS) is a lightweight, Python-based security monitoring solution designed to detect host-level threats in real time. The system continuously analyzes authentication logs, monitors file integrity using SHA-256 hashing, tracks running processes through whitelist-based verification, and inspects active TCP/UDP network connections to identify suspicious activity such as brute-force login attempts, file tampering, unauthorized processes, and abnormal listening ports. A centralized detection engine classifies events into LOW, HIGH, and CRITICAL severity levels and presents alerts through an interactive dashboard with live visualizations and CSV-based logging.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=flat-square)

@@ -93,7 +93,7 @@ I'm a **final year B.Tech Computer Science** undergraduate specialising in **Cyb
 
 ## 🔐 Projects
 
-> **Eleven builds. Each one solves a real security or systems problem.**
+> **Twelve builds. Each one solves a real security or systems problem.**
 
 <table>
   <tr>
@@ -115,6 +115,28 @@ A Python powered HIDS that monitors authentication logs, file integrity, running
 </td>
     <td width="50%" valign="top">
 
+### 🛡️ SentinelView — Enterprise SIEM & Threat Detection Platform
+> *From raw logs to a MITRE-mapped alert — end to end, deployed live*
+
+A full-stack, self-hosted SIEM: ingests SSH auth, web access, and firewall logs through dedicated parsers, normalizes them into a unified event schema, and runs them through a rule-based correlation engine mapped to real MITRE ATT&CK technique IDs. Alerts are severity-scored and deduplicated via Redis, with role-based access control (Admin / Analyst / Viewer) enforced server-side, a live WebSocket event tail, geo-distribution mapping, and CSV/PDF incident reporting. Deployed across three separate cloud providers — backend on Render, database on Aiven MySQL, frontend on Vercel.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-Mapped-4B0082?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-RBAC-orange?style=flat-square)
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-c026d3?style=for-the-badge)](https://sentinel-view-enterprise-siem-threat-detection-platform.vercel.app)
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/SentinelView-Enterprise-SIEM-Threat-Detection-Platform)
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
 ### 📡 Real-Time File Integrity Monitoring (FIM)
 > *Know the moment a file changes — before damage is done*
 
@@ -129,8 +151,6 @@ SHA-256 based file monitoring system that detects file additions, deletions, and
 [![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/Real-Time-File-Integrity-Monitoring)
 
 </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 
 ### 🌐 Network Monitoring & Traffic Analytics Dashboard
@@ -146,6 +166,8 @@ Dark-themed interactive dashboard with real-time network traffic visualization, 
 [![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/Network-Monitoring-Traffic-Analytics-Dashboard)
 
 </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 
 ### 💬 Real-Time MultiClient Communication System
@@ -161,8 +183,6 @@ TCP socket-based platform supporting multiple concurrent users with group & priv
 [![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/Real-Time-MultiClient-Communication-System)
 
 </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 
 ### 🔍 PortSentinel — TCP Port & Service Scanner
@@ -177,6 +197,8 @@ Scans ports 1–1024 via real-time TCP socket communication to identify open por
 [![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/Portsentinel-TCP-Port-Service-Scanner)
 
 </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 
 ### 🎣 PhishTrace — Secure URL & Email Analyzer
@@ -191,8 +213,6 @@ Rule-based phishing detection system using 10+ heuristic indicators insecure pro
 [![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/PhishTrace-Secure-Url-Email-Analyzer)
 
 </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 
 ### 🛡️ ShadowFox Cybersecurity Internship Projects
@@ -209,6 +229,8 @@ Task-based cybersecurity projects completed during the ShadowFox internship vuln
 [![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/ShadowFox-CyberSecurity-Internship)
 
 </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 
 ### 🤖 AI Research Assistant
@@ -226,8 +248,6 @@ Full-stack app that automates research by combining real-time web search with Ge
 [![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/AI-Research-Assistant)
 
 </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 
 ### 🌐 Web-Based URL to QR Code Generation Platform
@@ -245,6 +265,8 @@ A modern, responsive web app that converts any valid URL into a high-quality, do
 [![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/Web-Based-URL-to-QR-Code-Generation-Platform)
 
 </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 
 ### 🔎 AI-Powered Lost-and-Found Management System
@@ -261,8 +283,6 @@ An intelligent web app that matches lost and found items using AI image analysis
 [![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/AI-Powered-Lost-and-Found-Management-System)
 
 </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 
 ### 🗄️ Enterprise Digital Evidence Management System (DEMS)
@@ -278,13 +298,8 @@ A fully normalized MySQL 8.0 relational database (18 tables, 3NF) modeling the c
 [![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/Enterprise-Digital-Evidence-Management-System-DEMS-)
 
 </td>
-    <td width="50%" valign="top">
-
-</td>
   </tr>
 </table>
-
----
 
 ## 💼 Work Experience
 

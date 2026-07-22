@@ -129,7 +129,7 @@ A full-stack, self-hosted SIEM: ingests SSH auth, web access, and firewall logs 
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-Mapped-4B0082?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-RBAC-orange?style=flat-square)
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-c026d3?style=for-the-badge)](https://sentinel-view-enterprise-siem-threat-detection-platform.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-c026d3?style=for-the-badge)]((https://sentinelview-console.vercel.app/))
 [![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/SentinelView-Enterprise-SIEM-Threat-Detection-Platform)
 
 </td>

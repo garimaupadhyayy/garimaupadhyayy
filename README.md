@@ -59,8 +59,6 @@ I'm a **final year B.Tech Computer Science** undergraduate specialising in **Cyb
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔐 Cybersecurity & Penetration Testing
@@ -71,9 +69,32 @@ I'm a **final year B.Tech Computer Science** undergraduate specialising in **Cyb
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![VeraCrypt](https://img.shields.io/badge/VeraCrypt-Disk_Encryption-8B0000?style=for-the-badge&logo=gnupg&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Incident_Response-8B0000?style=for-the-badge)
+![Cryptography](https://img.shields.io/badge/Cryptography-6A0DAD?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-4B0082?style=for-the-badge)
+![NIST](https://img.shields.io/badge/NIST_Security_%26_Access_Management-003087?style=for-the-badge)
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-333333?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Application Security](https://img.shields.io/badge/Application_Security-C71585?style=for-the-badge)
+![Information Security](https://img.shields.io/badge/Information_Security-2F4F4F?style=for-the-badge)
+![VAPT](https://img.shields.io/badge/VAPT-8B0000?style=for-the-badge)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-4B0082?style=for-the-badge)
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-800000?style=for-the-badge)
 
-### 🌐 Networking & TCP/IP
+### 🌐 Networking
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Protocol_Suite-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+![OSI Model](https://img.shields.io/badge/OSI_Model-0078D4?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-333333?style=for-the-badge)
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-E34F26?style=for-the-badge)
+![FTP](https://img.shields.io/badge/FTP-4B0082?style=for-the-badge)
+![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge)
+![SMTP](https://img.shields.io/badge/SMTP-EA4335?style=for-the-badge)
+![IMAP](https://img.shields.io/badge/IMAP-EA4335?style=for-the-badge)
+![VLANs](https://img.shields.io/badge/VLANs-0078D4?style=for-the-badge)
+![VPN](https://img.shields.io/badge/VPN-2F4F4F?style=for-the-badge)
+![Routing](https://img.shields.io/badge/Routing-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+![Switching](https://img.shields.io/badge/Switching-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+![Firewalls](https://img.shields.io/badge/Firewalls-8B0000?style=for-the-badge)
 ![tcpdump](https://img.shields.io/badge/tcpdump-Network_Analysis-333333?style=for-the-badge&logo=linux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-Port_Scanner-4B0082?style=for-the-badge&logo=nmap&logoColor=white)
 
@@ -89,11 +110,20 @@ I'm a **final year B.Tech Computer Science** undergraduate specialising in **Cyb
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+### 📊 Data Analytics & Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
 ---
 
 ## 🔐 Projects
 
-> **Twelve builds. Each one solves a real security or systems problem.**
+> **Thirteen builds. Each one solves a real security or systems problem.**
 
 <table>
   <tr>
@@ -296,6 +326,25 @@ A fully normalized MySQL 8.0 relational database (18 tables, 3NF) modeling the c
 ![RBAC](https://img.shields.io/badge/RBAC-Least_Privilege-orange?style=flat-square)
 
 [![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/Enterprise-Digital-Evidence-Management-System-DEMS-)
+
+</td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2" valign="top">
+
+### ⚡ Wattwise — AI-Powered Campus Energy & Carbon Analytics Platform
+> *Turning raw electricity data into a 15% cut in campus energy use*
+
+A gamified analytics platform to monitor and reduce campus energy consumption and carbon emissions using real-time data. Tableau dashboards convert raw electricity data into measurable, decision-ready insights, while AI-powered analytics, IoT sensors, and cloud storage work together to identify high-consumption zones and flag usage spikes through a smart alert system. Projected a 15% reduction in energy consumption and a 20% reduction in carbon emissions within the first year.
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI Analytics](https://img.shields.io/badge/AI_Analytics-4285F4?style=flat-square)
+![IoT Sensors](https://img.shields.io/badge/IoT_Sensors-00979D?style=flat-square)
+![Cloud Technologies](https://img.shields.io/badge/Cloud_Technologies-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-c026d3?style=for-the-badge)](https://app--wattwise-80aee5e5.base44.app/login?from_url=https%3A%2F%2Fapp--wattwise-80aee5e5.base44.app%2F)
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/Wattwise-AI-Powered-Campus-Energy-Carbon-Analytics-Platform)
 
 </td>
   </tr>

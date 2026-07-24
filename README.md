@@ -340,8 +340,6 @@ A gamified analytics platform to monitor and reduce campus energy consumption an
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![AI Analytics](https://img.shields.io/badge/AI_Analytics-4285F4?style=flat-square)
-![IoT Sensors](https://img.shields.io/badge/IoT_Sensors-00979D?style=flat-square)
-![Cloud Technologies](https://img.shields.io/badge/Cloud_Technologies-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 [![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-c026d3?style=for-the-badge)](https://app--wattwise-80aee5e5.base44.app/login?from_url=https%3A%2F%2Fapp--wattwise-80aee5e5.base44.app%2F)
 [![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/Wattwise-AI-Powered-Campus-Energy-Carbon-Analytics-Platform)

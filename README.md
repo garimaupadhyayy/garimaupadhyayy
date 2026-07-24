@@ -55,31 +55,25 @@ I'm a **final year B.Tech Computer Science** undergraduate specialising in **Cyb
 
 ## ⚔️ Tech Stack
 
-### 💻 Languages & Core Programming
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔐 Cybersecurity & Penetration Testing
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![VeraCrypt](https://img.shields.io/badge/VeraCrypt-Disk_Encryption-8B0000?style=for-the-badge&logo=gnupg&logoColor=white)
+### 🔐 Cybersecurity
 ![Incident Response](https://img.shields.io/badge/Incident_Response-8B0000?style=for-the-badge)
 ![Cryptography](https://img.shields.io/badge/Cryptography-6A0DAD?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![SIEM](https://img.shields.io/badge/SIEM-4B0082?style=for-the-badge)
-![NIST](https://img.shields.io/badge/NIST_Security_%26_Access_Management-003087?style=for-the-badge)
+![NIST Framework](https://img.shields.io/badge/NIST_Cybersecurity_Framework-003087?style=for-the-badge)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-4B0082?style=for-the-badge)
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-800000?style=for-the-badge)
 ![Log Analysis](https://img.shields.io/badge/Log_Analysis-333333?style=for-the-badge)
 ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![IAM](https://img.shields.io/badge/Identity_%26_Access_Management-003087?style=for-the-badge)
+![Network Security](https://img.shields.io/badge/Network_Security-8B0000?style=for-the-badge)
 ![Application Security](https://img.shields.io/badge/Application_Security-C71585?style=for-the-badge)
 ![Information Security](https://img.shields.io/badge/Information_Security-2F4F4F?style=for-the-badge)
 ![VAPT](https://img.shields.io/badge/VAPT-8B0000?style=for-the-badge)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-4B0082?style=for-the-badge)
-![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-800000?style=for-the-badge)
 
 ### 🌐 Networking
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Protocol_Suite-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
@@ -95,29 +89,35 @@ I'm a **final year B.Tech Computer Science** undergraduate specialising in **Cyb
 ![Routing](https://img.shields.io/badge/Routing-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 ![Switching](https://img.shields.io/badge/Switching-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 ![Firewalls](https://img.shields.io/badge/Firewalls-8B0000?style=for-the-badge)
-![tcpdump](https://img.shields.io/badge/tcpdump-Network_Analysis-333333?style=for-the-badge&logo=linux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-Port_Scanner-4B0082?style=for-the-badge&logo=nmap&logoColor=white)
 
-### 🖥️ Core Computer Science
-![Data Structures](https://img.shields.io/badge/Data_Structures_%26_Algorithms-orange?style=for-the-badge&logo=leetcode&logoColor=white)
-![OS](https://img.shields.io/badge/Operating_Systems-Linux%20%7C%20Windows-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CN](https://img.shields.io/badge/Computer_Networks-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![OOPs](https://img.shields.io/badge/OOPs-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### 🛠️ Tools & DevOps
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🛠️ Development Stack
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📊 Data Analytics & Visualization
+### 🔎 Security & Monitoring Tools
+![Nmap](https://img.shields.io/badge/Nmap-4B0082?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00A9E0?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![tcpdump](https://img.shields.io/badge/tcpdump-333333?style=for-the-badge&logo=linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge)
+![PE Explorer](https://img.shields.io/badge/PE_Explorer-333333?style=for-the-badge)
+![VeraCrypt](https://img.shields.io/badge/VeraCrypt-8B0000?style=for-the-badge&logo=gnupg&logoColor=white)
+
+### 📊 Data & Analytics
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### 🤝 Soft Skills
+![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-2F4F4F?style=for-the-badge)
+![Time Management](https://img.shields.io/badge/Time_Management-2F4F4F?style=for-the-badge)
+![Leadership](https://img.shields.io/badge/Leadership-2F4F4F?style=for-the-badge)
 
 ---
 

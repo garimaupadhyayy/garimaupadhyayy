@@ -118,6 +118,11 @@ I'm a **final year B.Tech Computer Science** undergraduate specialising in **Cyb
 ![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-2F4F4F?style=for-the-badge)
 ![Time Management](https://img.shields.io/badge/Time_Management-2F4F4F?style=for-the-badge)
 ![Leadership](https://img.shields.io/badge/Leadership-2F4F4F?style=for-the-badge)
+![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-2F4F4F?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-2F4F4F?style=for-the-badge)
+![Communication](https://img.shields.io/badge/Communication-2F4F4F?style=for-the-badge)
+![Strategic Planning](https://img.shields.io/badge/Strategic_Planning-2F4F4F?style=for-the-badge)
+![Public Speaking](https://img.shields.io/badge/Public_Speaking-2F4F4F?style=for-the-badge)
 
 ---
 

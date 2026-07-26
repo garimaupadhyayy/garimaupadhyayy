@@ -15,7 +15,7 @@
 
 ---
 
-## 🛡️ About Mee
+## 🛡️ About Me
 
 ```js
 const garima = {

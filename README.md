@@ -145,7 +145,7 @@ Host-Based Intrusion Detection System (HIDS) is a lightweight, Python-based secu
 ![Plotly](https://img.shields.io/badge/Plotly-Dashboards-3F4F75?style=flat-square)
 ![JSON](https://img.shields.io/badge/JSON-Storage-grey?style=flat-square)
 
-[![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/Host-Based-Intrusion-Detection-Systemhids)
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-7b2d8b?style=for-the-badge)](https://github.com/garimaupadhyayy/Host-Based-Intrusion-Detection-System))
 
 </td>
     <td width="50%" valign="top">
